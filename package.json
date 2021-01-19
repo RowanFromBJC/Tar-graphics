@@ -1,0 +1,20 @@
+{
+  "name": "Tar-graphics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "keywords": [],
+  "author": "Rowan C",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^11.2.0",
+    "electron-packager": "^15.2.0",
+    "electron-wix-msi": "^3.0.6"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
